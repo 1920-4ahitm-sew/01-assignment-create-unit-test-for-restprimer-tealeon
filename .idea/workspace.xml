@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86709a5c-2c8f-4d66-ac97-186c3e2cb788" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Restprimer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/at/htl/rest/TimeServerIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/htl/rest/TimeServerIT.java" afterDir="false" />
@@ -76,6 +75,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TimeServerIT.fetchTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Restprimer-st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htl.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htl.rest" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.rest.TimeServerIT" />
+      <option name="METHOD_NAME" value="fetchTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TimeServerIT.fetchTime" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570702395165</updated>
-      <workItem from="1570702398094" duration="1843000" />
+      <workItem from="1570702398094" duration="2699000" />
     </task>
     <servers />
   </component>
