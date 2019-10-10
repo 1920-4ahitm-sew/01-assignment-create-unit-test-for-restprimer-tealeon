@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86709a5c-2c8f-4d66-ac97-186c3e2cb788" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Restprimer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/htl/rest/TimeServerIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/htl/rest/TimeServerIT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Restprimer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Restprimer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Restprimer/Restprimer.iml" beforeDir="false" />
     </list>
@@ -54,6 +56,7 @@
   <component name="ProjectId" id="1S0ZIk0A5CHmoL97Im05y1vV93T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -83,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570702395165</updated>
-      <workItem from="1570702398094" duration="1568000" />
+      <workItem from="1570702398094" duration="1843000" />
     </task>
     <servers />
   </component>
